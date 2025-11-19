@@ -1,6 +1,7 @@
 from abc import ABC, abstractmethod
 from typing import Optional, Dict, Any, List
-from langchain.tools import Tool
+from langchain_core.tools import Tool
+
 
 
 import os
